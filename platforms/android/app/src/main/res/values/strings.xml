@@ -3,4 +3,12 @@
     <string name="app_name">HelloCordova</string>
     <string name="launcher_name">@string/app_name</string>
     <string name="activity_name">@string/launcher_name</string>
+    <string name="str_info">More text and content to be added here as required</string>
+    <string name="btn_no">不同意</string>
+    <string name="btn_yes">同意</string>
+    <string name="dialog_title">托me</string>
+    <string name="dialog_random_text">感谢您信任井使用轩me a9p诘您务必 溪慎阅洪充分理解~用户均议^和”隐私 政策名项条款，包括但不农于:为了向 您捉供更好的联务，我们需要收失您的 手机号等个人信总： 您可以讯读 月 户协议多 和隐私政策）了解详细信 息</string>
+    <string name="lbl_agreement"><u>月户协议多</u></string>
+    <string name="lbl_privacy"><u>>隐私政策</u></string>
+    <string name="chk_agree">可</string>
 </resources>
